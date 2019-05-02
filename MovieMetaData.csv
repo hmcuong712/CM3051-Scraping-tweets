@@ -1,0 +1,82 @@
+,Genre,Actors,Rated,imdbRating
+0,"Animation, Adventure, Comedy, Family","Louis C.K., Eric Stonestreet, Kevin Hart, Jenny Slate",PG,6.5
+1,"Animation, Adventure, Comedy, Family","Ellen DeGeneres, Albert Brooks, Ed O'Neill, Kaitlin Olson",PG,7.3
+2,"Action, Adventure, Fantasy, Sci-Fi","Ben Affleck, Henry Cavill, Amy Adams, Jesse Eisenberg",PG-13,6.5
+3,"Action, Adventure, Fantasy, Sci-Fi","Will Smith, Jaime FitzSimons, Ike Barinholtz, Margot Robbie",PG-13,6.1
+4,"Action, Adventure, Sci-Fi","Chris Evans, Robert Downey Jr., Scarlett Johansson, Sebastian Stan",PG-13,7.8
+5,"Action, Adventure, Sci-Fi","Felicity Jones, Diego Luna, Alan Tudyk, Donnie Yen",PG-13,7.8
+6,"Action, Adventure, Sci-Fi","James McAvoy, Michael Fassbender, Jennifer Lawrence, Nicholas Hoult",PG-13,7.0
+7,"Adventure, Drama, Family, Fantasy","Neel Sethi, Bill Murray, Ben Kingsley, Idris Elba",PG,7.4
+8,"Adventure, Family, Fantasy","Eddie Redmayne, Sam Redford, Scott Goldman, Tim Bentinck",PG-13,7.3
+9,"Action, Adventure, Sci-Fi","Liam Hemsworth, Jeff Goldblum, Jessie T. Usher, Bill Pullman",PG-13,5.2
+10,"Action, Adventure, Comedy, Sci-Fi","Megan Fox, Will Arnett, Laura Linney, Stephen Amell",PG-13,6.0
+11,"Animation, Adventure, Comedy, Family, Fantasy, Musical","Anna Kendrick, Justin Timberlake, Zooey Deschanel, Christopher Mintz-Plasse",PG,6.5
+12,"Action, Thriller","Matt Damon, Tommy Lee Jones, Alicia Vikander, Vincent Cassel",PG-13,6.6
+13,"Animation, Comedy, Family, Musical","Matthew McConaughey, Reese Witherspoon, Seth MacFarlane, Scarlett Johansson",PG,7.1
+14,"Animation, Adventure, Comedy, Family, Fantasy, Romance, Sci-Fi","Stephanie Beatriz, Robert Cardone, Neil deGrasse Tyson, Adam Devine",PG,5.7
+15,"Animation, Action, Adventure, Comedy, Family, Fantasy","Jack Black, Bryan Cranston, Dustin Hoffman, Angelina Jolie",PG,7.1
+16,"Action, Comedy, Fantasy, Sci-Fi","Zach Woods, Kristen Wiig, Ed Begley Jr., Charles Dance",PG-13,5.2
+17,"Animation, Adventure, Comedy, Crime, Family, Mystery","Ginnifer Goodwin, Jason Bateman, Idris Elba, Jenny Slate",PG,8.0
+18,"Biography, Drama","Tom Hanks, Aaron Eckhart, Valerie Mahaffey, Delphi Harrington",PG-13,7.5
+19,"Animation, Action, Adventure, Comedy, Family","Jason Sudeikis, Josh Gad, Danny McBride, Maya Rudolph",PG,6.3
+20,"Action, Adventure, Sci-Fi, Thriller","Chris Pine, Zachary Quinto, Karl Urban, Zoe Saldana",PG-13,7.1
+21,"Animation, Adventure, Comedy, Family, Fantasy","Andy Samberg, Katie Crown, Kelsey Grammer, Jennifer Aniston",PG,6.8
+22,"Action, Adventure, Fantasy, Sci-Fi","Benedict Cumberbatch, Chiwetel Ejiofor, Rachel McAdams, Benedict Wong",PG-13,7.5
+23,"Animation, Adventure, Comedy, Family, Fantasy, Musical","Auli'i Cravalho, Dwayne Johnson, Rachel House, Temuera Morrison",PG,7.6
+24,"Action, Adventure, Comedy, Sci-Fi","Ryan Reynolds, Karan Soni, Ed Skrein, Michael Benyaer",R,8.0
+25,"Adventure, Drama, Fantasy, Thriller","Eva Green, Asa Butterfield, Samuel L. Jackson, Judi Dench",PG-13,6.7
+26,"Action, Adventure, Drama, Fantasy","Chris Hemsworth, Charlize Theron, Jessica Chastain, Emily Blunt",PG-13,6.1
+27,"Action, Thriller","Tom Cruise, Cobie Smulders, Aldis Hodge, Danika Yarosh",PG-13,6.1
+28,"Adventure, Family, Fantasy","Johnny Depp, Mia Wasikowska, Helena Bonham Carter, Anne Hathaway",PG,6.2
+29,"Action, Adventure, Mystery, Sci-Fi, Thriller","Shailene Woodley, Theo James, Naomi Watts, Octavia Spencer",PG-13,5.7
+30,"Action, Adventure, Comedy, Family, Fantasy","Bryce Dallas Howard, Robert Redford, Oakes Fegley, Oona Laurence",PG,6.7
+31,"Action, Adventure, Western","Denzel Washington, Chris Pratt, Ethan Hawke, Vincent D'Onofrio",PG-13,6.9
+32,"Action, Adventure, Drama, Fantasy, Romance","Alexander Skarsgård, Rory J. Saper, Christian Stevens, Christoph Waltz",PG-13,6.3
+33,"Action, Adventure, Crime, Drama, Mystery, Thriller","Tom Hanks, Felicity Jones, Omar Sy, Irrfan Khan",PG-13,6.2
+34,"Action, Comedy, Crime","Dwayne Johnson, Kevin Hart, Amy Ryan, Danielle Nicolet",PG-13,6.3
+35,Comedy,"Melissa McCarthy, Kristen Bell, Peter Dinklage, Ella Anderson",R,5.4
+36,"Action, Thriller","Alon Aboutboul, Waleed Zuaiter, Adel Bencherif, Mehdi Dehbi",R,5.9
+37,"Drama, Romance, Sci-Fi, Thriller","Jennifer Lawrence, Chris Pratt, Michael Sheen, Laurence Fishburne",PG-13,7.0
+38,"Drama, Horror, Mystery, Sci-Fi, Thriller","John Goodman, Mary Elizabeth Winstead, John Gallagher Jr., Douglas M. Griffin",PG-13,7.2
+39,Comedy,"Justin Bieber, Jon Daly, Penélope Cruz, Ben Stiller",PG-13,4.7
+40,"Biography, Drama, History","Taraji P. Henson, Octavia Spencer, Janelle Monáe, Kevin Costner",PG,7.8
+41,Comedy,"Seth Rogen, Zac Efron, Rose Byrne, Chloë Grace Moretz",R,5.7
+42,"Action, Adventure, Fantasy","Travis Fimmel, Paula Patton, Ben Foster, Dominic Cooper",PG-13,6.9
+43,"Action, Drama, History, Thriller","Mark Wahlberg, Kurt Russell, Douglas M. Griffin, James DuMont",PG-13,7.1
+44,"Action, Crime, Drama, Thriller","Ben Affleck, Anna Kendrick, J.K. Simmons, Jon Bernthal",R,7.3
+45,"Adventure, Family, Fantasy","Mark Rylance, Ruby Barnhill, Penelope Wilton, Jemaine Clement",PG,6.4
+46,"Crime, Horror, Thriller","Stephen Lang, Jane Levy, Dylan Minnette, Daniel Zovatto",R,7.1
+47,"Comedy, Drama, Romance","Dakota Johnson, Rebel Wilson, Leslie Mann, Damon Wayans Jr.",R,6.1
+48,"Drama, Horror, Mystery, Thriller","Patrick Wilson, Vera Farmiga, Madison Wolfe, Frances O'Connor",R,7.4
+49,"Comedy, Drama, Romance","Jennifer Aniston, Timothy Olyphant, Shay Mitchell, Caleb Brown",PG-13,5.7
+50,"Animation, Action, Adventure, Family, Fantasy","Art Parkinson, Charlize Theron, Brenda Vaccaro, Cary-Hiroyuki Tagawa",PG,7.8
+51,"Comedy, Crime, Drama, War","Miles Teller, Steve Lantz, Gregg Weiner, David Packouz",R,7.1
+52,"Crime, Drama, Mystery, Thriller","Emily Blunt, Haley Bennett, Rebecca Ferguson, Justin Theroux",R,6.5
+53,"Comedy, Drama, Music, Musical, Romance","Ryan Gosling, Emma Stone, Amiée Conn, Terry Walters",PG-13,8.0
+54,"Action, Adventure, Comedy, Crime, Mystery, Thriller","Jesse Eisenberg, Mark Ruffalo, Woody Harrelson, Dave Franco",PG-13,6.5
+55,Comedy,"Mila Kunis, Kathryn Hahn, Kristen Bell, Christina Applegate",R,6.2
+56,Comedy,"Jason Bateman, Olivia Munn, T.J. Miller, Jennifer Aniston",R,5.8
+57,"Action, Comedy","Ice Cube, Kevin Hart, Tika Sumpter, Benjamin Bratt",PG-13,5.9
+58,"Comedy, Romance","Nia Vardalos, John Corbett, Michael Constantine, Lainie Kazan",PG-13,6.0
+59,"Drama, Horror, Mystery, Thriller","Annalise Basso, Elizabeth Reaser, Lulu Wilson, Henry Thomas",PG-13,6.1
+60,"Action, Drama, Romance, Thriller, War","Brad Pitt, Vincent Ebrahim, Xavier de Guillebon, Marion Cotillard",R,7.1
+61,"Biography, Drama, Family","Jennifer Garner, Kylie Rogers, Martin Henderson, Brighton Sharbino",PG,7.1
+62,"Action, Drama, History, Thriller","Chris Pine, Casey Affleck, Ben Foster, Eric Bana",PG-13,6.8
+63,"Animation, Adventure, Comedy, Fantasy","Alistair Abell, Iris Apatow, Sugar Lyn Beard, Michael Cera",R,6.2
+64,"Horror, Mystery, Thriller","James Allen McCune, Callie Hernandez, Corbin Reid, Brandon Scott",R,5.0
+65,"Action, Crime, Drama, History, Thriller","Mark Wahlberg, Dicky Eklund Jr., Michael Marchand, Rhet Kidd",R,7.4
+66,"Action, Adventure, Fantasy","Brenton Thwaites, John Samaha, Courtney Eaton, Nikolaj Coster-Waldau",PG-13,5.4
+67,"Drama, Mystery, Sci-Fi, Thriller","Amy Adams, Jeremy Renner, Forest Whitaker, Michael Stuhlbarg",PG-13,7.9
+68,"Crime, Drama, Thriller","George Clooney, Julia Roberts, Jack O'Connell, Dominic West",R,6.5
+69,"Action, Adventure, Drama, History","Jack Huston, Toby Kebbell, Rodrigo Santoro, Nazanin Boniadi",PG-13,5.7
+70,"Action, Comedy, Crime","Zach Galifianakis, Kristen Wiig, Owen Wilson, Ross Kimball",PG-13,5.8
+71,"Drama, Romance","Will Smith, Edward Norton, Kate Winslet, Michael Peña",PG-13,6.8
+72,"Action, Comedy","Zach Galifianakis, Isla Fisher, Jon Hamm, Gal Gadot",PG-13,5.9
+73,Comedy,"Zoey Deutch, James Franco, Tangie Ambrose, Cedric the Entertainer",R,6.2
+74,"Adventure, Comedy, Romance","Zac Efron, Adam Devine, Anna Kendrick, Aubrey Plaza",R,6.0
+75,"Action, Adventure, Sci-Fi","Michael Fassbender, Marion Cotillard, Jeremy Irons, Brendan Gleeson",PG-13,5.8
+76,"Biography, Drama, History, War","Andrew Garfield, Richard Pyros, Jacob Warner, Milo Gibson",R,8.1
+77,"Drama, Horror, Thriller","Blake Lively, Óscar Jaenada, Angelo Josue Lozano Corzo, Joseph Salas",PG-13,6.3
+78,"Comedy, Crime, Drama","Billy Bob Thornton, Kathy Bates, Tony Cox, Christina Hendricks",R,5.6
+79,"Action, Horror, Romance","Lily James, Sam Riley, Bella Heathcote, Ellie Bamber",PG-13,5.8
+80,"Comedy, Drama, Romance","Renée Zellweger, Gemma Jones, Jim Broadbent, Sally Phillips",R,6.5
